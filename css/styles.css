@@ -103,9 +103,8 @@ img {
   border-radius: 2px;
   background-color: var(--accent-color);
   position: relative;
-  top: 32px;
+  top: 33px;
   display: block;
-  bottom: -1px;
 }
 
 .site-nav {
