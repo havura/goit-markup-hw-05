@@ -21,7 +21,7 @@
   --logo-header: #000000;
   --portfolio-border: #eeeeee;
   --hero-btn-hov-foc: #188ce8;
-  --transition-duration: 2500ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-duration: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 body {
@@ -234,7 +234,7 @@ img {
 
 .hero-btn:hover,
 .hero-btn:focus {
-  background: var(--hero-btn-hov-foc);
+  background-color: var(--hero-btn-hov-foc);
 }
 
 /************************FEATURES*********************/
